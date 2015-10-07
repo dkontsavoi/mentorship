@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Context path="/SpringMVCApp" crossContext="true" reloadable="true" >
+       <Environment name="maxExemptions" value="51"
+                    type="java.lang.Integer" override="false"/>
+       <Parameter name="companyName" value="My Company, Incorporated 23"
+                  override="false"/>
+</Context>
